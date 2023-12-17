@@ -1,1 +1,1 @@
-click here:  https://istiaofppt.github.io/Birthday-Wish-Using-Html-Css/
+click here:  https://Birthday-Wish-Using-Html-Css.github.io/
